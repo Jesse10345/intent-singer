@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "fc16b55f-1d95-4404-876f-21ad333815ec",
+            "Value": {
+                "id": "72097a4a-585a-4ead-8168-da335c489797",
+                "resourcePath": "objects\\obj_IntroText\\obj_IntroText.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ffc7ab71-21d3-4f7b-8da5-7ef3c5e169eb",
             "Value": {
                 "id": "505e2464-cfb8-4d38-b28b-473a77cf3c46",
