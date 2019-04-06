@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "07483709-f143-43bd-9f3b-0900444b53c9",
+            "Value": {
+                "id": "b775758f-2e9f-475d-a813-e1d32689dfb4",
+                "resourcePath": "objects\\obj_YouWinText\\obj_YouWinText.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "09c7bfcb-c792-4260-8b54-5331927c4b7a",
             "Value": {
                 "id": "867e0db0-a42d-4b33-86b4-290484349547",
@@ -308,6 +316,14 @@
                 "id": "9ce30cdd-0466-48ac-b252-05becf9398ee",
                 "resourcePath": "views\\d3a87059-c39d-4f05-a8f5-7315fbd08213.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ded98b94-0dcf-4f20-8eac-166cb7c10891",
+            "Value": {
+                "id": "c89d88cd-432d-4f48-b427-fc388b7b883b",
+                "resourcePath": "objects\\obj_GameOverText\\obj_GameOverText.yy",
+                "resourceType": "GMObject"
             }
         },
         {
