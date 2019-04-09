@@ -210,6 +210,25 @@
             }
         },
         {
+            "Key": "1be09396-6748-4ba0-a426-edc843470c96",
+            "Value": {
+                "id": "665b6baf-7193-48b8-8a3e-f12381113134",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_key4spawnrate\/obj_key4spawnrate.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f195176-95ce-4492-a5cf-da73ed45142b",
             "Value": {
                 "id": "b460975b-13a1-46c9-be86-fbc580c8252a",
@@ -305,6 +324,25 @@
             }
         },
         {
+            "Key": "33c6e7d4-6735-464f-908a-c93a510e3845",
+            "Value": {
+                "id": "b9f2fefa-cb4d-4562-ba8e-ef5978e23ad5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_key1spawner\/obj_key1spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "426aceae-bd64-478e-98be-610b89f79181",
             "Value": {
                 "id": "71622af6-f0b8-48f7-b8ff-3a8730ac158f",
@@ -381,6 +419,25 @@
             }
         },
         {
+            "Key": "4fa26561-52b9-4a99-951c-e570c473d046",
+            "Value": {
+                "id": "8a02fdc9-eeb8-41b9-a159-52c9f633970a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_key4spawner\/obj_key4spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "53d7b6f1-0691-465d-863e-1b9e1f5c8144",
             "Value": {
                 "id": "055863a0-45ee-4c4d-8e77-fe1d7d867fa5",
@@ -435,6 +492,25 @@
                 ],
                 "resourcePath": "sprites\/spr_wall\/spr_wall.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "58c953ae-3344-47d3-b15f-913f929a5992",
+            "Value": {
+                "id": "06fb9270-9e49-4e09-83a5-f733f8293ba9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_key3spawner\/obj_key3spawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -742,6 +818,25 @@
             }
         },
         {
+            "Key": "a7053c33-6f96-4009-a76b-5e225c78e12d",
+            "Value": {
+                "id": "a174e036-37aa-49c1-98b2-1b8f90dc397d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_key3spawnrate\/obj_key3spawnrate.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "26e9fae8-95da-4c24-9ba6-c4bd9ac74ddc",
@@ -834,6 +929,25 @@
                 ],
                 "resourcePath": "paths\/key4Path\/key4Path.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "c5d30858-2a10-4e49-b477-4890e0500ead",
+            "Value": {
+                "id": "841a4034-f62b-47f9-a364-f20564550c7e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_key2spawnrate\/obj_key2spawnrate.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -951,6 +1065,25 @@
             }
         },
         {
+            "Key": "e0ea1904-42e6-4e2b-b932-3f3dcb7e01e9",
+            "Value": {
+                "id": "11fc8bfb-cc1f-4312-8495-c48bed1a6442",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_key2spawner\/obj_key2spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eaf32f6e-bcc0-4114-b61a-d4f377e844c4",
             "Value": {
                 "id": "8ce3de22-07e8-4111-a53d-c424e491f7bb",
@@ -1061,6 +1194,25 @@
                     "default"
                 ],
                 "resourcePath": "objects\/obj_hitbox3\/obj_hitbox3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f5d719ab-f922-4975-95c6-61f338e0d435",
+            "Value": {
+                "id": "eede9e07-1d8b-41ee-b808-d067a002776b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_key1spawnrate\/obj_key1spawnrate.yy",
                 "resourceType": "GMObject"
             }
         },
