@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "5e4ab41c-9fae-4076-b638-78d6950fd7bf",
+            "Value": {
+                "id": "2a3090c5-b8d3-4807-a060-b74b813002d9",
+                "resourcePath": "rooms\\YouWin_Room\\YouWin_Room.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "68940600-5091-49cc-a073-7e1328e038c2",
             "Value": {
                 "id": "565f7865-e969-49f4-948d-9f8ef917c848",
