@@ -1,2 +1,2 @@
 //set up score
-score = 0;
+obj_score = 0;
